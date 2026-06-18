@@ -1,0 +1,36 @@
+{
+    "window_title": "Programa Y - Formulário de Cadastro",
+    "document_folder": "../documentos_testes",
+    "auto_calibrate": true,
+    "delay_between_actions": 1.0,
+    "field_positions": {
+        "nome": [
+            627,
+            303
+        ],
+        "cpf": [
+            616,
+            343
+        ],
+        "data_nasc": [
+            618,
+            380
+        ],
+        "endereco": [
+            619,
+            423
+        ],
+        "telefone": [
+            627,
+            461
+        ],
+        "email": [
+            629,
+            504
+        ],
+        "observacoes": [
+            587,
+            600
+        ]
+    }
+}
